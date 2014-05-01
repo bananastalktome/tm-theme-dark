@@ -1,4 +1,3 @@
-tm-theme-dark
-=============
+## CustomDark theme for TextMate 2.0
 
-A theme for Textmate 2
+This theme is a compilation of pieces of other themes that I liked. Enjoy!
